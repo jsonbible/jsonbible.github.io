@@ -105,7 +105,7 @@
         "history_1.5": "Changed to bibles.org.uk's source",
         "history_1.0": "Regenerated from cleaner source, including deuterocanonicals"
       },
-      "url": "https://jsonbible.github.io/synodal.json"
+      "url": "https://jsonbible.github.io/rst.json"
     },
     "kjv": {
       "translation": "King James Version",
